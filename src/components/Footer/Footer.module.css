@@ -1,0 +1,29 @@
+.footer {
+  background-color: #f8f8f8;
+  color: #333;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #e7e7e7;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.socialLink {
+  margin: 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+
+.socialLink img {
+  width: 24px; /* Ajusta el tamaño según sea necesario */
+  height: 24px; /* Ajusta el tamaño según sea necesario */
+}
+
+.footer p {
+  margin-top: 20px;
+  font-size: 14px;
+}
